@@ -1,0 +1,7 @@
+{
+  "books": [
+    { "_id": "b1", "title": "Guide to Happiness", "author": "Gael" },
+    { "_id": "b2", "title": "Guide to JavaScript", "author": "Eliza" },
+    { "_id": "b3", "title": "Guide to Coaching", "author": "Rob" }
+  ]
+}
